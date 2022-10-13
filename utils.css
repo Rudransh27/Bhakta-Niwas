@@ -1,0 +1,76 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+
+.bg-orange{
+    background-color: orange;
+}
+
+.bg-golden{
+    background-color: white;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.section1{
+    height: 50vh;
+}
+
+.font-bold{
+    font-family: 'Radio Canada', sans-serif;
+    font-weight: bold;
+}
+
+.my-1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.text-red{
+    color: red;
+}
+
+.btn{
+  padding: 4px 12px;  
+  border: 2px solid black;
+  border-radius: 6px;
+  cursor: pointer;
+  color: black;
+  background-color: azure;
+}
+
+
+.image{
+    width: 23%;
+    height: auto;
+    padding-left: 13px;
+    padding-top: 10px;
+}
